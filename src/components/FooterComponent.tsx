@@ -4,7 +4,7 @@ const FooterComponent: React.FC = () => {
   return (
     <IonFooter className="ion-text-center">
       <IonToolbar>
-        <IonTitle>Created By Kenar Ben Shitrit</IonTitle>
+        <small>Created By Kenar Ben Shitrit</small>
       </IonToolbar>
     </IonFooter>
   
